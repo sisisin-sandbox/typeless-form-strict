@@ -1,0 +1,22 @@
+{
+  "name": "typeless-form-strict",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.11",
+    "@types/react-dom": "^16.9.3",
+    "parcel": "^1.12.4",
+    "rxjs": "^6.5.3",
+    "typeless": "^1.2.2",
+    "typeless-form": "^1.2.2",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.11.0"
+  }
+}
